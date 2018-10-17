@@ -5,4 +5,4 @@ Quick Markdown Overview
 
   - "-" write bullet lists with "-"
   - create **bold text** with **
-  - include [links] [] and ()
+  - include [links](https://facebook.com) with [] and ()
