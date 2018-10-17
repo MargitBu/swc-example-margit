@@ -1,2 +1,8 @@
 # swc-example-margit
-an example project for the git lesson of embl software carpentry
+An example project for the git lesson of EMBL software carpentry
+
+Quick Markdown Overview
+
+  - "-" write bullet lists with "-"
+  - create **bold text** with **
+  - include [links] [] and ()
